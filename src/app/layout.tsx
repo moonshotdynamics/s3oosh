@@ -6,7 +6,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "S3oosh",
+  title: "Manual S3 Media Uploader",
   description: "Upload files to Amazon S3 with ease.",
 };
 
